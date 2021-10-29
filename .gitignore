@@ -1,3 +1,16 @@
+.gradle
+/build/
+desktop.ini
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+.idea
+
 # Compiled class file
 *.class
 
